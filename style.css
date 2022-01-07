@@ -28,7 +28,7 @@ body {
   font-weight: 500;
 }
 .project {
-  background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(pattern-background-desktop.svg);
   background-color: hsl(225, 100%, 94%);
   background-size: contain;
   background-repeat: no-repeat;
